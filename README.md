@@ -4,3 +4,5 @@ Master of Public Health Thesis Project
 - Extract and organize random sampling data of 500,000 participants using SQLite 
 - Examine quantitative outcomes by applying regression models and Machine Learning concepts, such as supervised learning, and calculate the probability of the codes’ accuracy 
 - Assess the validity of ICD-10 codes among COVID-19 patients using RStudio, Python, and SQL
+
+- Publication: https://www.proquest.com/openview/e36c972c1f1f1ba6716b0f0d12805863/1?pq-origsite=gscholar&cbl=18750&diss=y
